@@ -66,9 +66,9 @@ export default function Index() {
             <h1 className="text-2xl font-bold">WHEELS</h1>
           </div>
           <nav className="hidden md:flex items-center gap-6">
-            <a href="#" className="hover:text-primary transition-colors">Главная</a>
+            <a href="/" className="hover:text-primary transition-colors">Главная</a>
             <a href="#catalog" className="hover:text-primary transition-colors">Каталог</a>
-            <a href="#" className="hover:text-primary transition-colors">Подбор</a>
+            <a href="/selector" className="hover:text-primary transition-colors">Подбор</a>
             <a href="#" className="hover:text-primary transition-colors">Бренды</a>
             <a href="#" className="hover:text-primary transition-colors">Контакты</a>
           </nav>
